@@ -20,6 +20,9 @@
 ### Other Work
 
 - [Intersection of 34th and Walnut Street Redesign Project](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
+- [ArcGIS Work Products for Studio Course](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
+- [ArcGIS Vector Work Sample](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
+- [ArcGIS Raster Work Sample](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
 
 ---
 
