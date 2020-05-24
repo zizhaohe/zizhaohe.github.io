@@ -4,11 +4,11 @@
 
 ### Geospatial Analysis Projects 
 
-[Predicting Larceny Index in San Francisco](https://njxinran95.github.io/xin_he_finalproject/)
+[Predicting Larceny Index in San Francisco (Python)](https://njxinran95.github.io/xin_he_finalproject/)
 <img src="images/Python_img1.png?raw=true"/>
 
 ---
-[Location and Time Prediction for EMS Calls in Virginia Beach, VA](/pdf/Zizhao_R_EMS Call Prediction Project.html)
+[Location and Time Prediction for EMS Calls in Virginia Beach, VA (R)](/pdf/Zizhao_R_EMS Call Prediction Project.html)
 <img src="images/EMS_TitleImg.jpeg?raw=true"/>
 
 ---
