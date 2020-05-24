@@ -8,18 +8,18 @@
 <img src="images/Python_img1.png?raw=true"/>
 
 ---
-[Location and Time Prediction for EMS Calls in Virginia Beach, VA](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Location and Time Prediction for EMS Calls in Virginia Beach, VA](/pdf/Zizhao_R_EMS Call Prediction Project.html)
+<img src="images/EMS_TitleImg.jpeg?raw=true"/>
 
 ---
 
 ### Urban Planning Studio Project Report
 
-- [Seizing the Opportunity of the Upcoming CBD Tolling Program in New York City](/pdf/sample_presentation.pdf)
+- [Seizing the Opportunity of the Upcoming CBD Tolling Program in New York City](/pdf/Congestion Pricing Studio Final Book_Long.pdf)
 
 ### Other Work
 
-- [Intersection of 34th and Walnut Street Redesign Project](/pdf/sample_presentation.pdf)
+- [Intersection of 34th and Walnut Street Redesign Project](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
 
 ---
 
