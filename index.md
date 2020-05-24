@@ -12,15 +12,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Home Price Prediction in San Francisco](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Urban Planning Studio Project Report
 
 - [Seizing the Opportunity of the Upcoming CBD Tolling Program in New York City](/pdf/sample_presentation.pdf)
-- [City of Burlington, NJ 2030 Plan](/pdf/sample_presentation.pdf)
 
 ### Other Work
 
