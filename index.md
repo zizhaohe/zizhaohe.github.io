@@ -5,7 +5,7 @@
 ### Geospatial Analysis Projects 
 
 [Predicting Larceny Index in San Francisco](https://njxinran95.github.io/xin_he_finalproject/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Python_img1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
