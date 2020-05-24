@@ -8,22 +8,23 @@
 <img src="images/Python_img1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Location and Time Prediction for EMS Calls in Virginia Beach, VA](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Home Price Prediction in San Francisco](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Urban Planning Studio Project Report
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Seizing the Opportunity of the Upcoming CBD Tolling Program in New York City](/pdf/sample_presentation.pdf)
+- [City of Burlington, NJ 2030 Plan](/pdf/sample_presentation.pdf)
+
+### Other Work
+
+- [Intersection of 34th and Walnut Street Redesign Project](/pdf/sample_presentation.pdf)
 
 ---
 
