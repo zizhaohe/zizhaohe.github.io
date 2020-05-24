@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Geospatial Analysis Projects 
 
-[Project 1 Title](/sample_page)
+[Predicting Larceny Index in San Francisco](https://njxinran95.github.io/xin_he_finalproject/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
