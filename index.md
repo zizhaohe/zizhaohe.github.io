@@ -8,13 +8,13 @@
 <img src="images/Python_img1.png?raw=true"/>
 
 [Shootings in Philadelphia](/pdf/MUSA620_Assignment2_Zizhao He.ipynb)
-<img src="images/Python_img1.png?raw=true"/>
+<img src="images/Ass2_Python.jpg?raw=true"/>
 
 [Evictions and Code Violations in Philadelphia](/pdf/MUSA620_Assignment 3_Zizhao He.ipynb)
-<img src="images/Python_img1.png?raw=true"/>
+<img src="images/Ass3_Python.jpg?raw=true"/>
 
 [Exploring Yelp Reviews](/pdf/MUSA620_Assignment 4_Zizhao He.ipynb)
-<img src="images/Python_img1.png?raw=true"/>
+<img src="images/Ass4_Python.jpg?raw=true"/>
 
 ---
 
