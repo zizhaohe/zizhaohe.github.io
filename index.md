@@ -6,6 +6,7 @@
 
 [Predicting Larceny Index in San Francisco (Python)](https://njxinran95.github.io/xin_he_finalproject/)
 <img src="images/Python_img1.png?raw=true"/>
+Skill Used
 
 [Shootings in Philadelphia](/pdf/MUSA620_Assignment2_Zizhao He.ipynb)
 <img src="images/Ass2_Python.jpg?raw=true"/>
