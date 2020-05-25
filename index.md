@@ -2,12 +2,24 @@
 
 ---
 
-### Geospatial Analysis Projects 
+### Geospatial Analysis / Machine Learning with Python
 
 [Predicting Larceny Index in San Francisco (Python)](https://njxinran95.github.io/xin_he_finalproject/)
 <img src="images/Python_img1.png?raw=true"/>
 
+[Shootings in Philadelphia](/pdf/MUSA620_Assignment2_Zizhao He.ipynb)
+<img src="images/Python_img1.png?raw=true"/>
+
+[Evictions and Code Violations in Philadelphia](/pdf/MUSA620_Assignment 3_Zizhao He.ipynb)
+<img src="images/Python_img1.png?raw=true"/>
+
+[Exploring Yelp Reviews](/pdf/MUSA620_Assignment 4_Zizhao He.ipynb)
+<img src="images/Python_img1.png?raw=true"/>
+
 ---
+
+### Geospatial Analysis / Machine Learning with R
+
 [Location and Time Prediction for EMS Calls in Virginia Beach, VA (R)](/pdf/Zizhao_R_EMS Call Prediction Project.html)
 <img src="images/EMS_TitleImg.jpeg?raw=true"/>
 
