@@ -7,6 +7,7 @@
 [Predicting Larceny Index in San Francisco (Python)](https://njxinran95.github.io/xin_he_finalproject/)
 <img src="images/Python_img1.png?raw=true"/>
 <br>Skills Used: Machine Learning (Random Forest Modeling), Data Visualization (Seaborn, Matplotlib, Altair, HvPlot)<br>
+<br>Repository link (for your reference): https://github.com/MUSA-620-Fall-2019/final-project-zizhao-ran<br>
 
 [Shootings in Philadelphia](/pdf/MUSA620_Assignment2_Zizhao He.ipynb)
 <img src="images/Ass2_Python.JPG?raw=true"/>
