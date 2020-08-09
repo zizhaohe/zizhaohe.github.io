@@ -30,6 +30,7 @@
 <br>Skills Used: Linear Space-time Modeling, Poisson Regression Modeling, App Wireframe<br>
 
 [Space-Time Prediction of Bike Share Demand - Indego in Philadelphia, PA (R)] (/pdf/SpaceTime_Philly.html)
+<img src="images/Indego.JPG?raw=true"/>
 <br>Skills Used: Linear Space-time Modeling<br>
 ---
 
