@@ -41,23 +41,23 @@
 
 ### Urban Planning Studio Project Report
 
--[Seizing the Opportunity of the Upcoming CBD Tolling Program in New York City](/pdf/Congestion Pricing Studio Final Book_Long.pdf)
+[Seizing the Opportunity of the Upcoming CBD Tolling Program in New York City](/pdf/Congestion Pricing Studio Final Book_Long.pdf)
 <img src="images/CBD Tolling Base Map.png?raw=true"/>
 
 ### Other Work
 
-- [Intersection of 34th and Walnut Street Redesign Project](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
+[Intersection of 34th and Walnut Street Redesign Project](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
 <br>Software Used: Rhino, Adobe Photoshop, Adobe Illustrator, Adobe InDesign<br>
 
-- [ArcGIS Work Products for Studio Course](/pdf/Zizhao_ArcGIS_WorkSample_StudioCourse.pdf)
+[ArcGIS Work Products for Studio Course](/pdf/Zizhao_ArcGIS_WorkSample_StudioCourse.pdf)
 <img src="images/Studio_Picture1.jpg?raw=true"/> <img src="images/Studio_Picture2.jpg?raw=true"/>
 <br>Software Used: ArcMap<br>
 
-- [ArcGIS Raster Work Sample](/pdf/Zizhao_ArcGIS_Raster_WorkSample1.pdf)
+[ArcGIS Raster Work Sample](/pdf/Zizhao_ArcGIS_Raster_WorkSample1.pdf)
 <img src="images/Raster_Photo.jpg?raw=true"/>
 <br>Software Used: ArcMap<br>
 
-- [ArcGIS Vector Work Sample](/pdf/Zizhao_ArcGIS_Vector_WorkSample1.pdf)
+[ArcGIS Vector Work Sample](/pdf/Zizhao_ArcGIS_Vector_WorkSample1.pdf)
 <img src="images/Vector_Picture.jpg?raw=true"/>
 <br>Software Used: ArcMap<br>
 
