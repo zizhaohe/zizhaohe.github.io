@@ -29,21 +29,37 @@
 <img src="images/EMS_TitleImg.jpeg?raw=true"/>
 <br>Skills Used: Linear Space-time Modeling, Poisson Regression Modeling, App Wireframe<br>
 
+[Geospatial risk modeling - the case of crime (Robbery with Handgun) in Chicago (R)](/pdf/ZizhaoHe_Crime_Prediction.html)
+<img src="images/Crime_Prediction.png?raw=true"/>
+<br>Skills Used: Poisson Regression Modeling<br>
+
 [Space-Time Prediction of Bike Share Demand - Indego in Philadelphia, PA (R)](/pdf/SpaceTime_Philly.html)
 <img src="images/Indego.jpg?raw=true"/>
 <br>Skills Used: Linear Space-time Modeling<br>
+
 ---
 
 ### Urban Planning Studio Project Report
 
-- [Seizing the Opportunity of the Upcoming CBD Tolling Program in New York City](/pdf/Congestion Pricing Studio Final Book_Long.pdf)
+-[Seizing the Opportunity of the Upcoming CBD Tolling Program in New York City](/pdf/Congestion Pricing Studio Final Book_Long.pdf)
+<img src="images/CBD Tolling Base Map.png?raw=true"/>
 
 ### Other Work
 
 - [Intersection of 34th and Walnut Street Redesign Project](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
+<br>Software Used: Rhino, Adobe Photoshop, Adobe Illustrator, Adobe InDesign<br>
+
 - [ArcGIS Work Products for Studio Course](/pdf/Zizhao_ArcGIS_WorkSample_StudioCourse.pdf)
+<img src="images/Studio_Picture1.jpg?raw=true"/> <img src="images/Studio_Picture2.jpg?raw=true"/>
+<br>Software Used: ArcMap<br>
+
 - [ArcGIS Raster Work Sample](/pdf/Zizhao_ArcGIS_Raster_WorkSample1.pdf)
+<img src="images/Raster_Photo.jpg?raw=true"/>
+<br>Software Used: ArcMap<br>
+
 - [ArcGIS Vector Work Sample](/pdf/Zizhao_ArcGIS_Vector_WorkSample1.pdf)
+<img src="images/Vector_Picture.jpg?raw=true"/>
+<br>Software Used: ArcMap<br>
 
 ---
 
