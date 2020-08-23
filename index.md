@@ -9,15 +9,15 @@
 <br>Skills Used: Machine Learning (Random Forest Modeling), Data Visualization (Seaborn, Matplotlib, Altair, HvPlot)<br>
 <br>Repository link (for your reference): https://github.com/MUSA-620-Fall-2019/final-project-zizhao-ran<br>
 
-[Shootings in Philadelphia](/pdf/MUSA620_Assignment2_Zizhao He.ipynb)
+[Shootings in Philadelphia](/html/MUSA620_Assignment2_Zizhao He.html)
 <img src="images/Ass2_Python.JPG?raw=true"/>
 <br>Skills Used: Matplotlib, Seaborn, Altair<br>
 
-[Evictions and Code Violations in Philadelphia](/pdf/MUSA620_Assignment 3_Zizhao He.ipynb)
+[Evictions and Code Violations in Philadelphia](/html/MUSA620_Assignment 3_Zizhao He.html)
 <img src="images/Ass3_Python.JPG?raw=true"/>
 <br>Skills Used: pandas, geopandas, hvplot, matplot, rasterio, rasterstats<br>
 
-[Exploring Yelp Reviews](/pdf/MUSA620_Assignment 4_Zizhao He.ipynb)
+[Exploring Yelp Reviews](/html/MUSA620_Assignment 4_Zizhao He.html)
 <img src="images/Ass4_Python.JPG?raw=true"/>
 <br>Skills Used: geopandas, pandas, textblob, seaborn, matplotlib<br>
 
