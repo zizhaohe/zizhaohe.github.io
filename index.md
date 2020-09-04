@@ -61,6 +61,9 @@
 <img src="images/Vector_Picture.jpg?raw=true"/>
 <br>Software Used: ArcMap<br>
 
+[Regression Analysis](/pdf/Regression Analysis.pdf)
+<br>Skill Used: Data Profiling, Hypothesis testing, Regression modeling, Treatment of multicollinearity<br>
+
 ---
 
 
