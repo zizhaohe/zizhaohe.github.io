@@ -23,7 +23,7 @@
 
 [Web Scraping and Big Data Analysis & Visualization](/html/MUSA620_Assignment 5_Zizhao He.html)
 <img src="images/parking_violations.gif?raw=true"/>
-<br>Part 1 of this project: web scraping and analysis for Philadelphia apartment market; Part 2 of this project: Analysis and visualization for Philadelphia parking violation from 2013 to present<br>
+<br>Part 1 of this project: web scraping and analysis for Philadelphia apartment market; Part 2 of this project: analysis and visualization for Philadelphia parking violation from 2013 to present<br>
 <br>Skills Used: web scraping, geopandas, pandas, altair, matplotlib, datashader<br>
 
 
