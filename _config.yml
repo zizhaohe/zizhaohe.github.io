@@ -1,9 +1,10 @@
 title: Zizhao's Portfolio  # your name (or website title) here
 logo: "/images/ZizhaoDC1.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks) 
+  <br>Email: zizhaohe@alumni.upenn.edu | Tel: 530-574-9816<br>
   <br>Newly graduated transportation planning and spatial analysis professional from UPenn.<br>
   <br>Also had academic backgraound in economic analysis, data analytics, and environmental design work from undergraduate study at UC Davis.<br>
   <a href="https://www.linkedin.com/in/zizhao-he-1b188113a/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# theme: jekyll-theme-minimal
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
