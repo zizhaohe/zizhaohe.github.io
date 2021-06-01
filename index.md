@@ -31,13 +31,13 @@
 
 ### Geospatial Analysis / Machine Learning with R
 
-[Location and Time Prediction for EMS Calls in Virginia Beach, VA (R)](/pdf/Zizhao_R_EMS Call Prediction Project.html)
-<img src="images/EMS_TitleImg.jpeg?raw=true"/>
-<br>Skills Used: Linear Space-time Modeling, Poisson Regression Modeling, App Wireframe<br>
-
 [Geospatial risk modeling - the case of crime (Robbery with Handgun) in Chicago (R)](/pdf/ZizhaoHe_Crime_Prediction.html)
 <img src="images/Crime_Prediction.png?raw=true"/>
 <br>Skills Used: Poisson Regression Modeling<br>
+
+[Location and Time Prediction for EMS Calls in Virginia Beach, VA (R)](/pdf/Zizhao_R_EMS Call Prediction Project.html)
+<img src="images/EMS_TitleImg.jpeg?raw=true"/>
+<br>Skills Used: Linear Space-time Modeling, Poisson Regression Modeling, App Wireframe<br>
 
 [Space-Time Prediction of Bike Share Demand - Indego in Philadelphia, PA (R)](/pdf/SpaceTime_Philly.html)
 <img src="images/Indego.jpg?raw=true"/>
