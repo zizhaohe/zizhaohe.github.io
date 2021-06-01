@@ -52,10 +52,7 @@
 
 ### Other Work
 
-[Intersection of 34th and Walnut Street Redesign Project](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
-<br>Software Used: Rhino, Adobe Photoshop, Adobe Illustrator, Adobe InDesign<br>
-
-[ArcGIS Work Products for Studio Course](/pdf/Zizhao_ArcGIS_WorkSample_StudioCourse.pdf)
+[ArcGIS Work Products for Studio Project](/pdf/Zizhao_ArcGIS_WorkSample_StudioCourse.pdf)
 <img src="images/Studio_Picture1.jpg?raw=true"/> <img src="images/Studio_Picture2.jpg?raw=true"/>
 <br>Software Used: ArcMap<br>
 
@@ -66,6 +63,9 @@
 [ArcGIS Vector Work Sample](/pdf/Zizhao_ArcGIS_Vector_WorkSample1.pdf)
 <img src="images/Vector_Picture.jpg?raw=true"/>
 <br>Software Used: ArcMap<br>
+
+[Intersection of 34th and Walnut Street Redesign Project](/pdf/Zizhao_WorkSample_SiteDesign.pdf)
+<br>Software Used: Rhino, Adobe Photoshop, Adobe Illustrator, Adobe InDesign<br>
 
 [Regression Analysis](/pdf/Regression Analysis.pdf)
 <br>Skill Used: Data Profiling, Hypothesis testing, Regression modeling, Treatment of multicollinearity<br>
